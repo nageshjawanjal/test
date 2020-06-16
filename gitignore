@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+src/.DS_Store
+src/Components/.DS_Store
+build
+src/index.js
+prod_build
